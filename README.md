@@ -30,4 +30,4 @@ THEN I am again presented with current and future conditions for that city
 
 ## URL's
 GitHub: https://github.com/TheMaddoxJ/Weather-App
-Deployed: 
+Deployed: https://themaddoxj.github.io/Weather-App/
